@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lyped
+- 👀 I’m interested in game dev.
+- 🌱 I’m currently learning Py/Java/C#/C++
