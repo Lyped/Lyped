@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @Lyped
 - 👀 I’m interested in game dev.
 - 🌱 I’m currently learning Py/Java/C#/C++
+- 💢 Currently working with PHP/Html/Css/JS
+- 💨 A bit of knowledge in Laravel
